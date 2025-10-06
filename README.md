@@ -1,6 +1,6 @@
 
 
-## Complete Invoies System in  Laravel 11
+## Complete hospital-management-system in  Laravel
 The electronic hospital system is an integrated software system that aims to digitize all operations and services performed in hospitals, so that administration, treatment, records, and communication between departments are managed electronically and as paperless as possible.
 
 
@@ -35,3 +35,4 @@ The electronic hospital system is an integrated software system that aims to dig
 
   #
 <p style="text-align:center">Thank You so much for your time Enjoy the code. !!!</p>
+
